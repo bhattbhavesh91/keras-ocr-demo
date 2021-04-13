@@ -2,8 +2,13 @@
 
 
 ## To view the video
-* [Click here](https://youtu.be/WtEhQvVUdH4)
-* Click on the image below
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=WtEhQvVUdH4" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/WtEhQvVUdH4?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+Click on the image below
 
 [![Optical Character Recognition (OCR) in Python using keras-ocr
 ](http://img.youtube.com/vi/WtEhQvVUdH4/0.jpg)](http://www.youtube.com/watch?v=WtEhQvVUdH4)
